@@ -1,4 +1,4 @@
-# Prediction App
+# Prediction WebApp: DSMT Group Project
 
 Live Demo: [https://predictionappdsmt.z1.web.core.windows.net/](https://predictionappdsmt.z1.web.core.windows.net/)
 
