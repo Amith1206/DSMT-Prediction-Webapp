@@ -49,6 +49,6 @@ func start
 ├── backend/          # Azure Functions backend
 ```
 
-## Contributing
+## Demo
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/32e1721d-fb81-4415-9e31-3d58902a7cfb" />
 
-Feel free to submit issues and enhancement requests!
