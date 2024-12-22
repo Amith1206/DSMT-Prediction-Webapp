@@ -8,8 +8,8 @@ These instructions will help you get the project up and running on your local ma
 
 ### Prerequisites
 
-- Vue.js and Yarn for the frontend
-- Azure Functions Core Tools for the backend
+- Vue.js the frontend
+- Azure Functions (Python) for the backend
 
 ### Running the Application
 
